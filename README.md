@@ -1,2 +1,2 @@
-# GrammarLy-Project
-# GrammarLy-Project
+# GrammarLy-CLONE
+# GrammarLy-CLONE
